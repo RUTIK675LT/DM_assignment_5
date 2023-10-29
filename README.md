@@ -1,7 +1,7 @@
 # DM_assignment_5 - Data preparation and processing assignment -
 
 ## Leveraging GPT-4 code interpreter for Data Mining (medium Link) - 
-`https://medium.com/@rutikrasik.darda/leveraging-gpt-4-code-interpreter-for-data-mining-389f31242f75`
+https://medium.com/@rutikrasik.darda/leveraging-gpt-4-code-interpreter-for-data-mining-389f31242f75
 In the following article I have mentioned how Chat GPT-4 has made Data Mining process much easier, as it almost automates the complete process. 
  
 ## This repository contains collab notebooks in which different types of datasets are handled and many Data Mining operations are performed - 
